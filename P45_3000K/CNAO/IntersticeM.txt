@@ -1,0 +1,8 @@
+ fcc:
+ ZAl-O=4:	           0
+ ZAl-O=5:	           0
+ ZAl-O=6:	           0
+ hcp:
+ ZAl-O=4:	           0
+ ZAl-O=5:	           0
+ ZAl-O=6:	           0
